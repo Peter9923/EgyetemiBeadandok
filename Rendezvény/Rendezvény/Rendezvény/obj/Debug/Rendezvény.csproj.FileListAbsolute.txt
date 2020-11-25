@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\bin\Debug\Rendezvény.exe.config
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\bin\Debug\Rendezvény.exe
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\bin\Debug\Rendezvény.pdb
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\obj\Debug\Rendezvény.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\obj\Debug\Rendezvény.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\obj\Debug\Rendezvény.exe
+C:\Users\szila\source\repos\Rendezvény\Rendezvény\obj\Debug\Rendezvény.pdb
