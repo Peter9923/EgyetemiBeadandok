@@ -1,0 +1,10 @@
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\bin\Debug\BevInfoBEadando.exe.config
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\bin\Debug\BevInfoBEadando.exe
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\bin\Debug\BevInfoBEadando.pdb
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.Properties.Resources.resources
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.csproj.GenerateResource.cache
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.exe
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.pdb
+C:\Users\szila\source\repos\BevInfoBEadando\BevInfoBEadando\obj\Debug\BevInfoBEadando.Form1.resources
