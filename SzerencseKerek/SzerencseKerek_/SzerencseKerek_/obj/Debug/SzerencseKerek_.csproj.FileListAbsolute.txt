@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\bin\Debug\SzerencseKerek_.exe.config
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\bin\Debug\SzerencseKerek_.exe
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\bin\Debug\SzerencseKerek_.pdb
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\obj\Debug\SzerencseKerek_.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\obj\Debug\SzerencseKerek_.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\obj\Debug\SzerencseKerek_.exe
+C:\Users\szila\source\repos\SzerencseKerek_\SzerencseKerek_\obj\Debug\SzerencseKerek_.pdb
