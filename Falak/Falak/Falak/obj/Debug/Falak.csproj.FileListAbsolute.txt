@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Falak\Falak\bin\Debug\Falak.exe.config
+C:\Users\szila\source\repos\Falak\Falak\bin\Debug\Falak.exe
+C:\Users\szila\source\repos\Falak\Falak\bin\Debug\Falak.pdb
+C:\Users\szila\source\repos\Falak\Falak\obj\Debug\Falak.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Falak\Falak\obj\Debug\Falak.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Falak\Falak\obj\Debug\Falak.exe
+C:\Users\szila\source\repos\Falak\Falak\obj\Debug\Falak.pdb
