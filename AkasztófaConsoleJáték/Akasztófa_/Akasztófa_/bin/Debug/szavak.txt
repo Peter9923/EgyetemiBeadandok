@@ -1,0 +1,4 @@
+5_gyumolcs_dinnye;körte;ananász;eper;alma
+6_filmek_mátrix;istenek a fejükre estek;resident evil;warcraft;need for speed;szabadítsuk ki vilit
+8_nevek_ELEMÉR;ANDRÁS;Gábor;Attila;Lilla;Péter;Emese;László
+4_könyvek_Isten Városa;Gyűrűk Ura;Harry Potter és a Bölcsek köve;Harry Potter és az aranyserleg

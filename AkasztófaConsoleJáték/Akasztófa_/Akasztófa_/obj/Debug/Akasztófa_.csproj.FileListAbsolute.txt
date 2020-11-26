@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\obj\Debug\Akasztófa_.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\obj\Debug\Akasztófa_.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\bin\Debug\Akasztófa_.exe.config
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\bin\Debug\Akasztófa_.exe
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\bin\Debug\Akasztófa_.pdb
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\obj\Debug\Akasztófa_.exe
+C:\Users\szila\source\repos\Akasztófa_\Akasztófa_\obj\Debug\Akasztófa_.pdb
