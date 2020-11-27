@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Utazók\Utazók\obj\Debug\Utazók.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Utazók\Utazók\obj\Debug\Utazók.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Utazók\Utazók\bin\Debug\Utazók.exe.config
+C:\Users\szila\source\repos\Utazók\Utazók\bin\Debug\Utazók.exe
+C:\Users\szila\source\repos\Utazók\Utazók\bin\Debug\Utazók.pdb
+C:\Users\szila\source\repos\Utazók\Utazók\obj\Debug\Utazók.exe
+C:\Users\szila\source\repos\Utazók\Utazók\obj\Debug\Utazók.pdb

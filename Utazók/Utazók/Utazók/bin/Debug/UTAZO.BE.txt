@@ -1,0 +1,9 @@
+3
+1 6 Eger
+8 10 Miskolc
+15 25 Sárospatak
+4
+1 4 Miskolc
+5 8 Eger
+12 22 Tokaj
+25 30 Sárospatak
