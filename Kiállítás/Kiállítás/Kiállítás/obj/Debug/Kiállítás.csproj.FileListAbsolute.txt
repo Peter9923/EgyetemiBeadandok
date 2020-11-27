@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\bin\Debug\Kiállítás.exe.config
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\bin\Debug\Kiállítás.exe
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\bin\Debug\Kiállítás.pdb
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\obj\Debug\Kiállítás.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\obj\Debug\Kiállítás.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\obj\Debug\Kiállítás.exe
+C:\Users\szila\source\repos\Kiállítás\Kiállítás\obj\Debug\Kiállítás.pdb

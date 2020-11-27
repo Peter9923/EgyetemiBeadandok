@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiállítás", "Kiállítás\Kiállítás.csproj", "{A7EDFA30-CE4E-48EE-9C92-9EE8DAD8336E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EDFA30-CE4E-48EE-9C92-9EE8DAD8336E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EDFA30-CE4E-48EE-9C92-9EE8DAD8336E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EDFA30-CE4E-48EE-9C92-9EE8DAD8336E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EDFA30-CE4E-48EE-9C92-9EE8DAD8336E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E17EAE9-6FFB-4648-943D-ABE699FABA06}
+	EndGlobalSection
+EndGlobal
