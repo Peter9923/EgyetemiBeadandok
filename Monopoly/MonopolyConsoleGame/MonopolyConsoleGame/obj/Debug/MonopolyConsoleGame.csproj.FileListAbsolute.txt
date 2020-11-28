@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\bin\Debug\MonopolyConsoleGame.exe.config
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\bin\Debug\MonopolyConsoleGame.exe
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\bin\Debug\MonopolyConsoleGame.pdb
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\obj\Debug\MonopolyConsoleGame.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\obj\Debug\MonopolyConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\obj\Debug\MonopolyConsoleGame.exe
+C:\Users\szila\source\repos\MonopolyConsoleGame\MonopolyConsoleGame\obj\Debug\MonopolyConsoleGame.pdb
