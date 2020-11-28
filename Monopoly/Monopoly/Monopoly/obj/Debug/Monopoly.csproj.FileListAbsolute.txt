@@ -1,7 +1,0 @@
-C:\Users\szila\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
-C:\Users\szila\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
-C:\Users\szila\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
-C:\Users\szila\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe
-C:\Users\szila\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
-C:\Users\szila\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.exe
-C:\Users\szila\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
