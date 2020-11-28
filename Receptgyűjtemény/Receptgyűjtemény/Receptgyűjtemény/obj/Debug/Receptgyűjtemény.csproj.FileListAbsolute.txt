@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\bin\Debug\Receptgyűjtemény.exe.config
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\bin\Debug\Receptgyűjtemény.exe
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\bin\Debug\Receptgyűjtemény.pdb
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\obj\Debug\Receptgyűjtemény.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\obj\Debug\Receptgyűjtemény.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\obj\Debug\Receptgyűjtemény.exe
+C:\Users\szila\source\repos\Receptgyűjtemény\Receptgyűjtemény\obj\Debug\Receptgyűjtemény.pdb
