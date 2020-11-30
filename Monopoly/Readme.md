@@ -1,5 +1,8 @@
 ![Monopoly](https://user-images.githubusercontent.com/66031693/100520775-ee269880-319f-11eb-8414-c05e13779d55.png)
 
+![upload](https://user-images.githubusercontent.com/66031693/100587756-47521180-32f1-11eb-82a0-d7939729bd59.gif)
+
+
 ![kepEgy](https://user-images.githubusercontent.com/66031693/100520776-f088f280-319f-11eb-8dc4-1ab8d19d9309.png)
 
 ![kepKetto](https://user-images.githubusercontent.com/66031693/100520777-f252b600-319f-11eb-99cf-9b551564a885.png)
