@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Ütközés\Ütközés\bin\Debug\Ütközés.exe.config
+C:\Users\szila\source\repos\Ütközés\Ütközés\bin\Debug\Ütközés.exe
+C:\Users\szila\source\repos\Ütközés\Ütközés\bin\Debug\Ütközés.pdb
+C:\Users\szila\source\repos\Ütközés\Ütközés\obj\Debug\Ütközés.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Ütközés\Ütközés\obj\Debug\Ütközés.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Ütközés\Ütközés\obj\Debug\Ütközés.exe
+C:\Users\szila\source\repos\Ütközés\Ütközés\obj\Debug\Ütközés.pdb
