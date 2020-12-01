@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\obj\Debug\Labirintus_.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\obj\Debug\Labirintus_.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\bin\Debug\Labirintus_.exe.config
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\bin\Debug\Labirintus_.exe
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\bin\Debug\Labirintus_.pdb
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\obj\Debug\Labirintus_.exe
+C:\Users\szila\source\repos\Labirintus_\Labirintus_\obj\Debug\Labirintus_.pdb
