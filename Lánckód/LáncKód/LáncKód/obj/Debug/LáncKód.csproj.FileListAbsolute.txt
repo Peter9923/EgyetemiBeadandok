@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\LáncKód\LáncKód\bin\Debug\LáncKód.exe.config
+C:\Users\szila\source\repos\LáncKód\LáncKód\bin\Debug\LáncKód.exe
+C:\Users\szila\source\repos\LáncKód\LáncKód\bin\Debug\LáncKód.pdb
+C:\Users\szila\source\repos\LáncKód\LáncKód\obj\Debug\LáncKód.csprojAssemblyReference.cache
+C:\Users\szila\source\repos\LáncKód\LáncKód\obj\Debug\LáncKód.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\LáncKód\LáncKód\obj\Debug\LáncKód.exe
+C:\Users\szila\source\repos\LáncKód\LáncKód\obj\Debug\LáncKód.pdb
